@@ -9,5 +9,3 @@ description: 353.ee
 ## 工作室成员
 
 ![成员](.gitbook/assets/成员.png)
-
-## 现在等待你的加入
